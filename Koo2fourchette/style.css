@@ -1,0 +1,150 @@
+
+
+#test {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 110%;
+}
+
+#block1 {
+  justify-content: flex-start;
+}
+
+#nav_bare {
+  font-size: 106%;
+  border-radius: 50px;
+}
+
+#petit_bouton {
+  background-color: #C71585;
+  color: #FFFFFF;
+}
+
+#peuton {
+  justify-content: flex-end;
+}
+
+
+#block8 {
+  background-color: greenyellow;
+  
+  
+}
+
+#idiot {
+    
+  background-color: #2151B0;
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  color: #FFFFFF;
+  font-size: 150%;
+  background-color: #B51D82;
+  flex-wrap: wrap;
+}
+
+#petit_casse_pied{
+  display: flex;
+  justify-content: space-between;
+}
+
+#block10 {
+    
+  background-color: #B51D82;
+  /*display: flex;
+  justify-content: flex-end;*/
+}
+
+#soupe{
+  display: flex;
+  gap: 10px;
+  /*justify-content: space-between;*/
+}
+
+.cero{
+  width: 66%;
+}
+
+.block12{
+  /*display: block;*/
+  height: auto;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#bastante{
+  background-color: #B51D82;
+  text-align: center;
+  height: auto;
+  width: 34%;
+}
+
+#nada{
+  background-color: #2151B0;
+  text-align: center;
+  height: auto;
+  width: 34%;
+}
+
+#imparfait{
+  display: flex;
+  gap: 10px;
+}
+
+.propo1{
+  width: 33%;
+}
+
+.food1{
+  display: block;
+  height: auto;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#Goku{
+  background-color: greenyellow;
+  text-align: center;
+
+}
+.persona{
+  display: flex;
+}
+
+#Vegeta{
+  background-color: #2151B0;
+  text-align: center;
+}
+
+#Freezer{
+  background-color: #B51D82;
+  text-align: center;
+}
+
+
+
+
+
+
+nav {
+  display: flex;
+  color: #FFFFFF;
+  font-size: 150%;
+  background-color: #B51D82;
+  flex-wrap: wrap;
+}
+
+
+
+
+
